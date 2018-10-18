@@ -6,6 +6,9 @@ The algorithm uses dynamic programming techniques to find all of the [Pareto fro
 
 ## Result
 Given an example set of data points representing the mass-price tradeoff in bicycles:
-![alt text](https://github.com/iibrahimli/pareto_fronts/ "Data points")
+
+![](https://github.com/iibrahimli/pareto_fronts/bike_data_points.png "Data points")
+
 the algorithm produces the list of Pareto fronts like this:
-![alt text](https://github.com/iibrahimli/pareto-fronts/ "Pareto fronts")
+
+![](https://github.com/iibrahimli/pareto-fronts/pareto_fronts.png "Pareto fronts")
