@@ -7,8 +7,8 @@ The algorithm uses dynamic programming techniques to find all of the [Pareto fro
 ## Result
 Given an example set of data points representing the mass-price tradeoff in bicycles:
 
-![data](https://github.com/iibrahimli/pareto_fronts/bike_data_points.png "Data points")
+![data](https://github.com/iibrahimli/pareto_fronts/blob/master/bike_data_points.png "Data points")
 
 the algorithm produces the list of Pareto fronts like this:
 
-![fronts](https://github.com/iibrahimli/pareto-fronts/pareto_fronts.png "Pareto fronts")
+![fronts](https://github.com/iibrahimli/pareto_fronts/blob/master/pareto_fronts.png "Pareto fronts")
